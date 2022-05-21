@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Redux Update - 2022
+
+![react-redux](cover.jpeg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
