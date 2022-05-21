@@ -1,7 +1,7 @@
 // Method is not deprectated.
 import {createStore} from 'redux'
 
-const reducerFn = (state={counter:0}, action) => {
+const reducerFn = (state={counter:10}, action) => {
     return state;
 }
 // This is not the reccomended approach for creating store.
